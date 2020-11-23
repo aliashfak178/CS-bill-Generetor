@@ -1,0 +1,10 @@
+D:\ASHFAQUE\COMPUTERS\softwere\C#\Bill Generater System\Bill Generater System\bin\Debug\Bill Generater System.exe
+D:\ASHFAQUE\COMPUTERS\softwere\C#\Bill Generater System\Bill Generater System\bin\Debug\Bill Generater System.pdb
+D:\ASHFAQUE\COMPUTERS\softwere\C#\Bill Generater System\Bill Generater System\obj\x86\Debug\Bill_Generater_System.LoadForm.resources
+D:\ASHFAQUE\COMPUTERS\softwere\C#\Bill Generater System\Bill Generater System\obj\x86\Debug\Bill_Generater_System.Properties.Resources.resources
+D:\ASHFAQUE\COMPUTERS\softwere\C#\Bill Generater System\Bill Generater System\obj\x86\Debug\Bill Generater System.csproj.GenerateResource.Cache
+D:\ASHFAQUE\COMPUTERS\softwere\C#\Bill Generater System\Bill Generater System\obj\x86\Debug\Bill Generater System.exe
+D:\ASHFAQUE\COMPUTERS\softwere\C#\Bill Generater System\Bill Generater System\obj\x86\Debug\Bill Generater System.pdb
+D:\ASHFAQUE\COMPUTERS\softwere\C#\Bill Generater System\Bill Generater System\obj\x86\Debug\Bill_Generater_System.MainForm.resources
+D:\ASHFAQUE\COMPUTERS\softwere\C#\Bill Generater System\Bill Generater System\obj\x86\Debug\Bill Generater System.csprojResolveAssemblyReference.cache
+D:\ASHFAQUE\COMPUTERS\softwere\C#\Bill Generater System\Bill Generater System\bin\Debug\Zen.Barcode.Core.dll
